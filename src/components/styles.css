@@ -1,0 +1,22 @@
+div {
+    width: 250px;
+    height: 500px;
+
+    background: #fac30f;
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid ;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    border-radius: 6px;
+}
+
+button{
+    padding: 5px;
+}
